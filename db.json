@@ -2,56 +2,48 @@
   "data": [
     {
       "id": "1",
-      "name": "Vrinda",
       "title": "Event Title 1",
       "description": "This impressive paella is a perfect partydish and a fun meal to cook together withyour guests .",
       "date": "2 days left"
     },
     {
       "id": "2",
-      "name": "Neethu",
       "title": "Event Title 2",
       "description": "This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "3 days left"
     },
     {
       "id": "3",
-      "name": "Asnad",
       "title": "Event Title 3",
       "description": "This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "5 days left"
     },
     {
       "id": "4",
-      "name": "Amitha",
       "title": "Event Title 4",
       "description": "This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "5 days left"
     },
     {
       "id": "5",
-      "name": "Aiswarya",
       "title": "Event Title 5",
       "description": "This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "5 days left"
     },
     {
       "id": "6",
-      "name": "Divin",
       "title": "Event Title 1",
       "description": "This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "1 day left"
     },
     {
       "id": "7",
-      "name": "Ranjitha",
       "title": "Event Title 2",
       "description": "This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "5 days left"
     },
     {
       "id": "8",
-      "name": "Nijil",
       "title": "Event Title 3",
       "description": "This impressive paella is a perfect partydish and a fun meal to cook together withyour guests.",
       "date": "4 days left"
